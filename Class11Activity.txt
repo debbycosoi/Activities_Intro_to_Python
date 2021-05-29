@@ -1,0 +1,9 @@
+11. Data Science and Data Visualization
+I love analyzing data and taking insights about what is happening in the real world. I like to see how humans behave, using real information.
+
+Some libraries used are ensorFlow, PyTorch, Pandas, Scikit-Learn, NumPy, SciP. 
+I would probably use many of the Python tools learned, such as Dictionaries and Lists, which can store a lot of information, which can later be used using a function.
+Of course, as Data sometimes should not be modified, I would be using Tuples a lot, as they are immutable. 
+
+I also like to present Data to others, sharing what insides I found about the topic analyzed. For this I would be using the following libraries: Plotly, Matplotlib, Seaborn, Ggplot, Geoplotlib
+Data science, could be used for example, to analyze and predict the behaviour of the coronavirus. Understanding in what measure the vaccines work, in what measure people get infected in different places, and a lot of other information.
